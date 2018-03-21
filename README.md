@@ -1,2 +1,2 @@
-# Second_project, this project is created during GIT workshop @ UC.
+# Second_project: First Branch 
 My second project 
